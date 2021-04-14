@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyForScheduleAPI", "ProxyForScheduleAPI\ProxyForScheduleAPI.csproj", "{98E878F8-586D-4777-B3B1-8F7728663D2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solutions", ".solutions", "{D917B48E-2B70-4F6E-84E1-E237C2F8A07F}"
+	ProjectSection(SolutionItems) = preProject
+		.solutions\ProxyForScheduleAPI_1_0_0_2.zip = .solutions\ProxyForScheduleAPI_1_0_0_2.zip
+		.solutions\ProxyForScheduleAPI_1_0_0_2_managed.zip = .solutions\ProxyForScheduleAPI_1_0_0_2_managed.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E878F8-586D-4777-B3B1-8F7728663D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E878F8-586D-4777-B3B1-8F7728663D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E878F8-586D-4777-B3B1-8F7728663D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E878F8-586D-4777-B3B1-8F7728663D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EED5F57-D58E-47A2-95D2-38743E618874}
+	EndGlobalSection
+EndGlobal

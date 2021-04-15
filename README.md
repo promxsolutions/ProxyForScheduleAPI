@@ -14,8 +14,8 @@ with a Microsoft Project license.
     1.  Decide which System User with Microsoft Project License will be used to impersonate all requests coming from Application User(s) 
     2.  Obtain ID (Guid) of chosen System User, you will need it in a second. 
     3.  Open ‘Default Solution’ in the new (non-classic) UI as it’s the only way to access Environment Variables 
-    4.  Local Environment Variable named ‘Proxy Solution: Proxy UserId’ 
-    5.  Update Variable’s ‘Current Value,’ saving the ID of the chosen System User (see Figure 1) 
+    4.  Locate Environment Variable named ‘Proxy Solution: Proxy UserId’ 
+    5.  Update Variable’s ‘Current Value’, saving the ID of the chosen System User (see Figure 1) 
 3.  In your code, instead of calling ‘msdyn_ExecuteOperationSetV1’ action directly, call ‘promx_ProxyExecuteOperationSetV1’; call signature is exactly the same. 
 
 ```csharp

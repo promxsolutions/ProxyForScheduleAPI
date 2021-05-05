@@ -35,6 +35,6 @@ Figure 1: updating Environment Variable
 # Contact
 
 For questions, wishes or feedback, please contact us via <support@proMX.net> or the below details. 
-We encourage you to visit our website [link](<www.proMX.net>) to find more.  
+We encourage you to visit our [website](<https://www.proMX.net>) to find more.  
 
 ![proMX Logo](./.doca/proMX_Logo.svg)  
